@@ -1,6 +1,0 @@
-Create a linux virtual machine by installing an iso and booting it from a virtual machine client (VirtBox,vmWare etc.)
-Install gcc by typing "sudo apt install gcc".
-Install the powercalc.c file from our server: https://github.com/powersoft-mertdev/PowerWget_wget-server.
-Install GTK from gtk.org
-Type "gcc powercalc.c" in the terminal to compile the executable
-Locate and run teh executeable.
